@@ -1,2 +1,2 @@
-# 42porto
-Estes são alguns dos exercícios resolvidos durante a piscine #12 da 42Porto.
+# cinel
+Estes são alguns dos exercícios que estão sendo resolvidos durante o cet2026
